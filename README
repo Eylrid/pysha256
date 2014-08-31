@@ -1,0 +1,5 @@
+pysha256 is a pure python implementation of sha256 I wrote to get a better feel for how the sha256 works. I did a lot of copying and translating from the [psuedocode on wikipedia](http://en.wikipedia.org/wiki/SHA-2#Pseudocode).
+
+This is purely an academic exercise. There are no optimizations.
+
+A quick bitcoin hashing benchmark gave me 4 hashes/second.
